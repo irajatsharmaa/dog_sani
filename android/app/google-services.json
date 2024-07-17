@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610475096848",
+    "project_id": "dog-sanitize",
+    "storage_bucket": "dog-sanitize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610475096848:android:68618a294a45a37e808395",
+        "android_client_info": {
+          "package_name": "com.example.dogsanitize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZtyTl6QKewv-7sGzk8FZaX60KS7mkDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
